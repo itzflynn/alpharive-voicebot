@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Alpharive Voice Bot
 
 Full-stack MVP for a company AI voice chatbot.
@@ -43,3 +44,7 @@ create table voice_sessions (
 - Backend -> Render
 - Set `FRONTEND_URL` in backend env to your deployed frontend URL
 - Set `VITE_BACKEND_URL` in frontend env to your deployed backend URL
+=======
+# alpharive-voicebot
+Real-time AI voice assistant for Alpharive Tech with WebRTC, FastAPI backend, and React frontend. Includes demo fallback mode for deployment without paid APIs.
+>>>>>>> 015005c19ef7fa93e061781823c4c8d6ce80c85a
